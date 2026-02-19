@@ -1,4 +1,8 @@
 package com.github.lvoltolini.FinanceCalculator.core.save;
 
-public class ResultSerializer {
+/**
+ * TODO: Check Result Arquitecture - add Serializing
+ */
+public class ResultSerializer
+{
 }

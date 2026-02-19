@@ -1,4 +1,8 @@
 package com.github.lvoltolini.FinanceCalculator.core.save;
 
-public class ModelSerializer {
+/**
+ * TODO: Check Model Arquitecture - add Serializing
+ */
+public class ModelSerializer
+{
 }

@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.DB;
+package com.github.lvoltolini.FinanceCalculator.core.infrastructure.DB;
 
 /**
  * The helper for the DB Functions. Test it with H2, try postgres later.

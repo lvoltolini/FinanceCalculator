@@ -1,4 +1,8 @@
 package com.github.lvoltolini.FinanceCalculator.GUI;
 
-public class LoadingTransition {
+/**
+ * Shows a progressBar and the Amalfi image while loading the data
+ */
+public class LoadingTransition
+{
 }

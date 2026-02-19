@@ -1,4 +1,4 @@
 package com.github.lvoltolini.FinanceCalculator.core.results;
 
-public class OptimizationResults {
+public class OptimizationResult {
 }

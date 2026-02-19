@@ -1,7 +1,7 @@
-package com.github.lvoltolini.FinanceCalculator.Generic.GenericPipeline;
+package com.github.lvoltolini.FinanceCalculator.core.pipeline;
 
 
-import com.github.lvoltolini.FinanceCalculator.Generic.GenericData.DataMatrix;
+import com.github.lvoltolini.FinanceCalculator.core.data.DataMatrix;
 
 public interface PipelineStep
 {

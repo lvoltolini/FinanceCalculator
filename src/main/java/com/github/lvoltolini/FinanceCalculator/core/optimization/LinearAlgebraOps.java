@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.Generic.GenericOptimization;
+package com.github.lvoltolini.FinanceCalculator.core.optimization;
 
 /**
  * EJML

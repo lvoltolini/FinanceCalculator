@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.Generic.GenericPipeline.Model;
+package com.github.lvoltolini.FinanceCalculator.core.pipeline.Model;
 
 public class Splitting {
 }

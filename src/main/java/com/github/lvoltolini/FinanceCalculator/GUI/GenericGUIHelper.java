@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.core;
+package com.github.lvoltolini.FinanceCalculator.GUI;
 
 public class GenericGUIHelper
 {

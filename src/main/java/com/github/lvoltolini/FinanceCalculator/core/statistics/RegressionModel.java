@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.Generic.GenericStatistics;
+package com.github.lvoltolini.FinanceCalculator.core.statistics;
 
 public class RegressionModel {
 }

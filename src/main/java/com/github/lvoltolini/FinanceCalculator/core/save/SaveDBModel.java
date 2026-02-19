@@ -1,4 +1,4 @@
 package com.github.lvoltolini.FinanceCalculator.core.save;
 
-public class saveDBMOdel {
+public class SaveDBModel {
 }

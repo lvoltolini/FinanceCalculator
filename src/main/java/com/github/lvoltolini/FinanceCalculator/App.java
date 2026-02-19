@@ -9,8 +9,8 @@ import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
 /**
- * Hello world!
- *
+ * TODO: Move the GUI to FinanceCalculator-Desktop
+ * TODO: Move the CLI to FinanceCalculator-Rest
  */
 public class App 
 extends Application

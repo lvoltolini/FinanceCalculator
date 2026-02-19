@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.Generic.GenericML;
+package com.github.lvoltolini.FinanceCalculator.core.ml;
 
 /**
  * Smile/Tribuo

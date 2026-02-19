@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.Other;
+package com.github.lvoltolini.FinanceCalculator.execution;
 
 /**
  * interface for <>Task().execute();

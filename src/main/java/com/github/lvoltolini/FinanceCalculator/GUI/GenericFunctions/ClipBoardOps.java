@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.Generic.GenericFunctions;
+package com.github.lvoltolini.FinanceCalculator.GUI.GenericFunctions;
 
 import java.awt.Image;
 import java.awt.Toolkit;

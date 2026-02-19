@@ -1,4 +1,4 @@
-package com.github.lvoltolini.FinanceCalculator.core.Data.Exception;
+package com.github.lvoltolini.FinanceCalculator.core.data.Exception;
 
 public class DataException {
 }

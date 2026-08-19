@@ -11,14 +11,14 @@ import javafx.stage.StageStyle;
 /**
  * TODO: Move the GUI to FinanceCalculator-Desktop
  * TODO: Move the CLI to FinanceCalculator-Rest
+ * # Test Edit
  */
-public class App 
-extends Application
-{
-    public static void main( String[] args )
-    {
-    	launch(args);
+public class App
+        extends Application {
+    public static void main(String[] args) {
+        launch(args);
     }
+
     private double xOffset = 0;
     private double yOffset = 0;
 
@@ -83,10 +83,8 @@ extends Application
     }
 
     private boolean isInResizeZone(Pane pane, double x, double y) {
-        return 
-    		(x > pane.getWidth() - RESIZE_MARGIN) 
-    		&&
-			(y > pane.getHeight() - RESIZE_MARGIN);
+        return (x > pane.getWidth() - RESIZE_MARGIN)
+                &&
+                (y > pane.getHeight() - RESIZE_MARGIN);
     }
 }
-		
